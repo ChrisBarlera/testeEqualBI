@@ -4,6 +4,7 @@ Repositório contendo os arquivos utilizados para o processo seletivo da empresa
 ## Sobre o desafio
 Trata-se do desenvolvimento de um *dashboard* a partir dos dados brutos de arquivos *.csv*. Era necessário também tratar os dados antes de usá-los.
 Os requisitos do *dashboard* estão melhor descritos no [PDF](CASE%20PS%2023.1.pdf).
+Mais sobre a resolução dos problemas no meu [texto de apoio](./Texto%20de%20Apoio.pdf)
 
 ## Sobre o que foi desenvolvido
 Para poder importar estes arquivos no ambiente de trabalho escolhido (*Google Looker Studio*), era necessário primeiramente tratar os dados brutos para que fossem aceitos pelo sistema Google. <br>
